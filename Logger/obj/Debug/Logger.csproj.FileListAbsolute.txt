@@ -1,0 +1,5 @@
+D:\Projects\VS2013\TxtEditor\Logger\bin\Debug\Logger.dll
+D:\Projects\VS2013\TxtEditor\Logger\bin\Debug\Logger.pdb
+D:\Projects\VS2013\TxtEditor\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Projects\VS2013\TxtEditor\Logger\obj\Debug\Logger.dll
+D:\Projects\VS2013\TxtEditor\Logger\obj\Debug\Logger.pdb

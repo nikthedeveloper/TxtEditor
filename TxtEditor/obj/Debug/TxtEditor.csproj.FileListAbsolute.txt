@@ -1,0 +1,11 @@
+D:\Projects\VS2013\TxtEditor\TxtEditor\bin\Debug\TxtEditor.exe.config
+D:\Projects\VS2013\TxtEditor\TxtEditor\bin\Debug\TxtEditor.exe
+D:\Projects\VS2013\TxtEditor\TxtEditor\bin\Debug\TxtEditor.pdb
+D:\Projects\VS2013\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csprojResolveAssemblyReference.cache
+D:\Projects\VS2013\TxtEditor\TxtEditor\obj\Debug\TxtEditor.Properties.Resources.resources
+D:\Projects\VS2013\TxtEditor\TxtEditor\obj\Debug\TxtEditor.csproj.GenerateResource.Cache
+D:\Projects\VS2013\TxtEditor\TxtEditor\obj\Debug\TxtEditor.exe
+D:\Projects\VS2013\TxtEditor\TxtEditor\obj\Debug\TxtEditor.pdb
+D:\Projects\VS2013\TxtEditor\TxtEditor\bin\Debug\Logger.dll
+D:\Projects\VS2013\TxtEditor\TxtEditor\bin\Debug\Logger.pdb
+D:\Projects\VS2013\TxtEditor\TxtEditor\obj\Debug\TxtEditor.EditorForm.resources
